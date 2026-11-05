@@ -1,24 +1,104 @@
-![logo](https://github.com/DineshPatel99/DineshPatel99/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner%20(1).png)
-<h1 align="center">Hi 👋, I'm Dinesh Patel</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="coding" width="500" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshpatel99&label=Profile%20views&color=0e75b6&style=flat" alt="dineshpatel99" /> </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,50:123B3A,100:16A085&height=210&section=header&text=Dinesh%20Patel&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="Dinesh Patel profile banner" />
 
-- 🌱 I’m currently learning **C/C++**
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=36D6B0&center=true&vCenter=true&width=650&lines=Building+useful+things+with+AI+%26+code;Turning+ideas+into+working+products;Learning%2C+building%2C+and+shipping+every+day" alt="Typing introduction" />
+  </a>
 
-- 📫 How to reach me **dinesh.24jiaiml037@jietjodhpur.ac.in**
+  <p>
+    <a href="https://www.linkedin.com/in/dinesh-patel-35766b2aa/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:dinesh.24jiaiml037@jietjodhpur.ac.in"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://leetcode.com/u/dinesh_patel08/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  </p>
 
-- ⚡ Fun fact **I am Funny**
+  <img src="https://komarev.com/ghpvc/?username=codingwithdinu&style=flat-square&color=16A085&label=PROFILE+VIEWS" alt="Profile views" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dinesh-patel-35766b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dinesh-patel-35766b2aa?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/thedinesh99?igsh=mtn3czvzdmnhymm1nq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thedinesh99?igsh=mtn3czvzdmnhymm1nq==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/dinesh_patel08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dinesh_patel08" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=codingwithdinu&show_icons=true&locale=en&layout=compact" alt="codingwithdinu" /></p>
+## 👨‍💻 About Me
+
+- 🎓 **B.Tech CSE (AI & ML)** student at JIET, Jodhpur — graduating in 2028.
+- 🤖 Interested in **Machine Learning, Generative AI, RAG systems, and full-stack development**.
+- 💼 Experience includes **Machine Learning Intern at Infosys Springboard** and **Applied AI Intern at IBM SkillsBuild**.
+- 🧩 Practising problem-solving with **500+ DSA problems** across coding platforms.
+- 🚀 I enjoy building practical products — from AI-powered tools to web applications.
+- 🌱 Currently exploring better ways to build, evaluate, and deploy reliable AI applications.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+  **Languages**
+
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,ts" alt="Python, C++, C, Java, JavaScript, TypeScript" />
+
+  **Frontend & Backend**
+
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,nodejs,express,fastapi" alt="React, Next.js, HTML, CSS, Tailwind, Node.js, Express, FastAPI" />
+
+  **AI / ML & Data**
+
+  <img src="https://skillicons.dev/icons?i=tensorflow, pytorch,sklearn,opencv" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" />
+
+  **Databases, Tools & Cloud**
+
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase,sqlite,prisma,docker,git,github,vercel,postman" alt="MongoDB, PostgreSQL, Supabase, SQLite, Prisma, Docker, Git, GitHub, Vercel, Postman" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**Fluxclip**](https://github.com/codingwithdinu/Fluxclip) | A media utility project focused on authorized video-processing workflows. | Next.js, worker service, Redis |
+| [**AI QA Agent / TestPilot AI**](https://github.com/codingwithdinu/ai-qa-agent) | Generates test cases and runs browser automation with failure evidence. | Playwright, Node.js, React, Prisma |
+| [**JIET Exam Prep**](https://github.com/codingwithdinu/JIET-EXAM-PREP) | A student-focused platform for organizing notes, important questions, and previous-year papers. | Next.js, React |
+| [**AI Lead Generation & Outreach**](https://github.com/codingwithdinu/AI-Lead-Generation-Automated-Outreach-Platform) | An outreach platform built around lead workflows and automation. | React, Node.js, Supabase |
+
+---
+
+## 💼 Experience & Achievements
+
+- **Machine Learning Intern — Infosys Springboard** · Jan 2026 – Apr 2026  
+  Worked on an NLP-based email classification project and API/dashboard integration.
+- **Applied AI Intern — IBM SkillsBuild** · Dec 2025 – Jan 2026
+- **Open Source Contributor — GirlScript Summer of Code 2026**
+- **Campus Ambassador — eDC, IIT Delhi**
+- **Microsoft Hackathon Finalist — Code Cubicle 5.0**
+- **Oracle Cloud Infrastructure** — AI Foundations Associate & Generative AI Professional certifications
+- **Deloitte Technology Job Simulation**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codingwithdinu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=36D6B0&icon_color=36D6B0&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdinu&layout=compact&hide_border=true&bg_color=0D1117&title_color=36D6B0&text_color=C9D1D9" alt="Top languages" />
+  <br/>
+  <img width="70%" src="https://streak-stats.demolab.com?user=codingwithdinu&hide_border=true&background=0D1117&ring=36D6B0&fire=36D6B0&currStreakLabel=36D6B0&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always happy to connect with fellow developers, collaborate on meaningful projects, and learn from the community.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dinesh-patel-35766b2aa/">LinkedIn</a> •
+  <a href="mailto:dinesh.24jiaiml037@jietjodhpur.ac.in">Email</a> •
+  <a href="https://leetcode.com/u/dinesh_patel08/">LeetCode</a> •
+  <a href="https://github.com/codingwithdinu">GitHub</a>
+  <br/><br/>
+  <i>“Build with curiosity. Improve with consistency.”</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16A085,50:123B3A,100:07111F&height=100&section=footer" width="100%" alt="" />
+</div>
