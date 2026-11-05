@@ -81,10 +81,22 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=codingwithdinu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=36D6B0&icon_color=36D6B0&text_color=C9D1D9&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithdinu&layout=compact&hide_border=true&bg_color=0D1117&title_color=36D6B0&text_color=C9D1D9" alt="Top languages" />
+
+  <img src="https://img.shields.io/github/followers/codingwithdinu?label=Followers&style=for-the-badge&logo=github&color=16A085" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/codingwithdinu?label=Total%20Stars&style=for-the-badge&logo=github&color=16A085" alt="GitHub stars" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full--Stack-16A085?style=for-the-badge" alt="AI and full-stack focus" />
+
+  <br/><br/>
+
+  **Explore my repositories and contribution activity:**
+
+  <a href="https://github.com/codingwithdinu?tab=repositories">📁 All Repositories</a> &nbsp; • &nbsp;
+  <a href="https://github.com/codingwithdinu?tab=overview&from=2026-01-01&to=2026-12-31">📈 Contribution Activity</a>
+
   <br/>
-  <img width="70%" src="https://streak-stats.demolab.com?user=codingwithdinu&hide_border=true&background=0D1117&ring=36D6B0&fire=36D6B0&currStreakLabel=36D6B0&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
+  <sub>GitHub's native contribution graph is displayed on my profile below this README.</sub>
+
 </div>
 
 ---
