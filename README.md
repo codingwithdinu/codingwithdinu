@@ -44,7 +44,7 @@
 
   **AI / ML & Data**
 
-  <img src="https://skillicons.dev/icons?i=tensorflow, pytorch,sklearn,opencv" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv" alt="TensorFlow, PyTorch, scikit-learn, OpenCV" />
 
   **Databases, Tools & Cloud**
 
